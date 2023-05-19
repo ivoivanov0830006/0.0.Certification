@@ -1,0 +1,14 @@
+COURSE CURRICULUM:
+Topic                           Hours
+
+Lists as Stacks and Queues        3
+Tuples and Sets                   3
+Multidimensional Lists            3
+Functions Advanced                3
+Error Handling                    3
+File Handling                     3
+Modules                           3
+
+Issue date: 21/02/2023
+Check the validity of this document here:
+https://softuni.bg/Certificates/Details/159343/fb85982d
