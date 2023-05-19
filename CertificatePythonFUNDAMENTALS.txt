@@ -1,0 +1,26 @@
+COURSE CURRICULUM:
+Topic                                                 Hours
+
+Basic Syntax, Conditional Statements and Loops          2
+Git and GitHub                                          3
+Data Types and Variables                                3
+HTTP Basics                                             3
+Lists Basics                                            3
+HTML & CSS Basics                                       3
+Functions                                               3
+Software Development Concepts - Part 1                  0
+Lists Advanced                                          3
+Objects and Classes                                     3
+Software Development Concepts - Part 2                  3
+Dictionaries                                            3
+Text Processing                                         3
+Bitwise Operations                                      3
+Problem Solving                                         3
+Regular Expressions                                     3
+Database Basics                                         3
+QA Introduction                                         3
+Basic Web Project                                       3
+
+Issue date: 06/12/2022
+Check the validity of this document here:
+https://softuni.bg/Certificates/Details/149002/00c75b8b
