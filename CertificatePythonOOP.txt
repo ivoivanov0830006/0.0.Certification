@@ -1,0 +1,18 @@
+COURSE CURRICULUM:
+Topic                             Hours
+
+First Steps in OOP                  3
+Classes and Objects                 3
+Inheritance                         3
+Encapsulation                       3
+Static and Class Methods            3
+Polymorphism and Abstraction        3
+SOLID                               3
+Iterators and Generators            3
+Decorators                          3
+Testing                             3
+Design Patterns                     3
+
+Issue date: 10/04/2023
+Check the validity of this document here:
+https://softuni.bg/Certificates/Details/168185/1d2b012d
