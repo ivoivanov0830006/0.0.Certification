@@ -1,0 +1,14 @@
+
+COURSE CURRICULUM:
+Topic                               Hours
+
+First Steps In Coding                 2
+Conditional Statements                3
+Conditional Statements Advanced       3
+For-Loop                              3
+While-Loop                            3
+Nested Loops                          3
+
+Issue date: 21/06/2022
+Check the validity of this document here:
+https://softuni.bg/Certificates/Details/135366/42091f97
