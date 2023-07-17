@@ -7,3 +7,7 @@ Conditional Statements Advanced       3
 For-Loop                              3
 While-Loop                            3
 Nested Loops                          3
+
+Issue date: 17/07/2023
+Check the validity of this document here:
+https://softuni.bg/Certificates/Details/178251/e19ec241
